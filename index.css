@@ -1,0 +1,25 @@
+.my-container{
+    background-color: red;
+    height: 100%;
+    min-height: 100vh;
+
+}
+
+.block{
+    color: White;
+    font-size: 25px;
+    height: 150px;
+    min-height: 30px;
+    background-color: blue;
+}
+
+.row-1{
+    height: auto;
+    background-color: yellow
+}
+.para{
+  font-size: 20px;
+  padding: 10px;
+  color: black;
+  
+}
